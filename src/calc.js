@@ -8,8 +8,10 @@ function multiplication(a, b) {
     return produit;
 }
 
+
 function soustraction(a, b){
-    //TODO
+    let result = a - b;
+    return result;
 }
 
 function main() {
